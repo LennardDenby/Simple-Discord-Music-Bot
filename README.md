@@ -1,7 +1,7 @@
 # Simple Discord Music Bot
 
 A basic Python-based Discord music bot that allows users to stream YouTube audio in Discord voice channels. 
-Write your own Discord bots API key in secret.py.
+Write your own Discord bots API key in creds.json.
 
 ## Features:
 - Plays audio from YouTube videos.
